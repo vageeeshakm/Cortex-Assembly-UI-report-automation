@@ -1,0 +1,93 @@
+[
+	{
+		"column_name": "Date",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%Y/%m/%d"
+	},
+	{
+		"column_name": "Advertiser ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Insertion Order ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Line Item ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "TrueView Ad ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Advertiser Currency",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Media Cost (Advertiser Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 1 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 2 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 3 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 4 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 5 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Revenue (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "First-Quartile Views (Video)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Midpoint Views (Video)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Third-Quartile Views (Video)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Complete Views (Video)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "TrueView: Views",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Earned Views",
+		"datatype": "int"
+	}
+]

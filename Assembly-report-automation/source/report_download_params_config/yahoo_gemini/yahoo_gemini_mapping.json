@@ -1,0 +1,58 @@
+[
+    {
+        "report_name": "Etrade",
+        "account_name": "Etrade",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    },
+    {
+        "report_name": "Assembly",
+        "account_name": "Assembly",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    },
+    {
+        "report_name": "Audible",
+        "account_name": "Audible",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    },
+    {
+        "report_name": "Optionshouse",
+        "account_name": "Optionshouse",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    },
+        {
+        "report_name": "Elevate_Native",
+        "account_name": "Elevate - Native",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    },
+        {
+        "report_name": "Pulte",
+        "account_name": "Pulte",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    },
+        {
+        "report_name": "North_Florida",
+        "account_name": "North Florida",
+        "date_range": "Last 7 days",
+        "column_set": "Yahoo mapping weekly",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_mapping"
+    }
+]

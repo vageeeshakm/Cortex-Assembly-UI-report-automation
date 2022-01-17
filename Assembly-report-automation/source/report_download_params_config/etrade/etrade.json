@@ -1,0 +1,13 @@
+[
+    {
+        "advertiser": "ETRADE",
+        "bucket_name": "test-bucketabcd",
+        "s3_folder": "test/daily_report/",
+        "s3_xlsx_file": "dalily_etarde_report.xlsx",
+        "s3_dbm_file": "dbm_file.csv",
+        "s3_dcm_file": "dcm_file.csv",
+        "s3_oath_file": "brightroll_report.csv",
+        "s3_gemini_file": "gemini_file.csv",
+        "s3_upload_file_name": "dalily_etarde_report_updated.xlsx"
+    }
+]

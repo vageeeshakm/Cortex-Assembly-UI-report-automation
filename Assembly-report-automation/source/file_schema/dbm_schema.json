@@ -1,0 +1,166 @@
+[
+	{
+		"column_name": "Partner",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Partner ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Advertiser ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Advertiser Currency",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Insertion Order ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Line Item ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Date",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Creative ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Revenue (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Cost (Advertiser Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Platform Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Platform Fee Rate",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Data Fees (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "CPM Fee 1 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "CPM Fee 2 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "CPM Fee 3 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "CPM Fee 4 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "CPM Fee 5 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Integral Ad Science Pre-Bid Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Integral Ad Science Video Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 1 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 2 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 3 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 4 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Media Fee 5 (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Agency Trading Desk Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Data Management Platform Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "DoubleVerify Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "DoubleVerify Pre-Bid Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "MediaCost Data Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Nielsen Digital Ad Ratings Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Premium Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Third-Party Ad Server Fee (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Cost (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Billable Cost (Adv Currency)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Total Media Cost (Advertiser Currency)",
+		"datatype": "float"
+	}
+]

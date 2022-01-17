@@ -1,0 +1,66 @@
+[
+    {
+        "column_name": "Day",
+        "datatype": "date",
+        "can_be_null": false,
+        "date_format": "%Y-%m-%d"
+    },
+    {
+        "column_name": "Account Name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Billing ID",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Campaign Name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Line Item Name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Line Item Start Date",
+        "datatype": "date",
+        "date_format": "%Y-%m-%d"
+    },
+    {
+        "column_name": "Line Item End Date",
+        "datatype": "date",
+        "date_format": "%Y-%m-%d"
+    },
+    {
+        "column_name": "Creative Name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Channel",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Impressions",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Clicks",
+        "datatype": "int"
+    },
+    {
+        "column_name": "CTR",
+        "datatype": "float"
+    },
+    {
+        "column_name": "eCPC",
+        "datatype": "float"
+    },
+    {
+        "column_name": "eCPM",
+        "datatype": "float"
+    },
+    {
+        "column_name": "Est. Spend",
+        "datatype": "float"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "column_name": "Ad group name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Ad group",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Ad ID",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Ad name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Campaign ID",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Campaign name",
+        "datatype": "string"
+    },
+    {
+        "column_name": "Date",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+    },
+    {
+        "column_name": "Earned impressions",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Earned link clicks",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Earned saves",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Impressions",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Link clicks",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid impressions",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid link clicks",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid saves",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid video played at 100%",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid video played at 25%",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid video played at 75%",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Paid video played at 95%",
+        "datatype": "int"
+    },
+    {
+        "column_name": "Spend in account currency",
+        "datatype": "float"
+    }
+]

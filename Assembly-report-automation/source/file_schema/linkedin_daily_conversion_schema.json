@@ -1,0 +1,143 @@
+[
+	{
+		"column_name": "Start Date (in UTC)",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Conversion ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Conversion Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Conversion Status",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Last Modified",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Conversion Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Conversion Value",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Account Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Currency",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Campaign Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign Status",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Cost Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Daily Budget",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Budget",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Creative Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Creative Status",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Introduction Text",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Headline",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Line",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Click URL",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Sponsored Update Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "DSC Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Video Length (in Seconds)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Post-Click Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "View-Through Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Conversion Value",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Post-Click Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral View-Through Conversions",
+		"datatype": "int"
+	}
+]

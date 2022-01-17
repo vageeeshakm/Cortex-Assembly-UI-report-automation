@@ -1,0 +1,32 @@
+[
+    {
+        "column_name": "Month of Year",
+        "datatype": "int",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Region",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "City",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Default Channel Grouping",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Medium",
+        "datatype": "string",
+        "can_be_null": false
+    },
+    {
+        "column_name": "Sessions",
+        "datatype": "string",
+        "infer_datatype": "int"
+    }
+]

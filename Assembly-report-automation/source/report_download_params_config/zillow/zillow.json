@@ -1,0 +1,11 @@
+[
+    {
+        "account_id": "Ym9vc3RQVEFjY291bnQ6QkxEMzcyOTkzNA",
+        "download_duration": "Last Week",
+        "group_by_filter": "Line Item",
+        "aggregation_level": "Day",
+        "s3_bucket": "pulte-dev",
+        "s3_folder": "specialvendors/zillow_boost_ui_report",
+        "s3_file_name": "zillow_boost_pulte.csv"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "report_name": "Etrade",
+        "account_name": "Etrade",
+        "date_range": "Last 14 days",
+        "column_set": "Auto-saved",
+        "report_type": "Ad group performance",
+        "platform_type": "yahoo_gemini_weekly_etrade"
+    }
+]

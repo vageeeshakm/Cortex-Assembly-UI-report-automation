@@ -1,0 +1,163 @@
+[
+    {
+        "account_name": "CHANEL_US_Ad_Account",
+        "account_id": "503317131",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "ETRADE_SC_Brokerage",
+        "account_id": "504258491",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+     {
+        "account_name": "Dominion_Energy_Account",
+        "account_id": "503556681",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "UC_Davis_Health",
+        "account_id": "503517419",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Transamerica_Sponsored_Content",
+        "account_id": "507533261",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Signature_Kitchen_Series",
+        "account_id": "503478199",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Red_Robin",
+        "account_id": "507590049",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Lincoln_Financial_Network_2019",
+        "account_id": "503390010",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "SC_Lincoln_Financial_Group_RPS",
+        "account_id": "503205297",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "MoneyGuard_2019",
+        "account_id": "508044523",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Unspoken_2019",
+        "account_id": "508123797",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_RPS_FY2019",
+        "account_id": "503376880",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_Life ATB_FY2018_SC",
+        "account_id": "503212638",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_LibertyIntegration_FY2018_SC",
+        "account_id": "506259856",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_GroupBenefit_FY2018_SC",
+        "account_id": "503212637",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_Corporate_FY2019",
+        "account_id": "507824497",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_Corporate_FY2018_SC",
+        "account_id": "503229731",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Financial_Group_Communication_FY2018",
+        "account_id": "506261723",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Harvard_Business_School_Executive",
+        "account_id": "507529130",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "ETRADE_SC_Corporate_Services",
+        "account_id": "503397299",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "ETRADE_SC_Advisor_Services",
+        "account_id": "507854286",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Old_Dominion_Freight_Line",
+        "account_id": "503747907",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    },
+        {
+        "account_name": "Old_Dominion_Freight_Line_Canada",
+        "account_id": "506896999",
+        "date_range": "Last 30 days",
+        "platform_type": "linkedin_daily",
+        "report_type": ["Ad Performance", "Conversion ad performance"]
+    }
+]

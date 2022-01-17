@@ -1,0 +1,49 @@
+[
+	{
+		"column_name": "Date",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%Y/%m/%d"
+	},
+	{
+		"column_name": "Advertiser ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Insertion Order ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Line Item ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "TrueView Ad ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Advertiser Currency",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "View through Conversion",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Store Visit Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Conversion Value (Adv Currency)",
+		"datatype": "int"
+	}
+]

@@ -1,0 +1,41 @@
+[	
+    {
+        "column_name": "Day",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+    },
+	{
+		"column_name": "Advertiser ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Advertiser Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Campaign Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Group ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Ad Group Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Ad Name",
+		"datatype": "string"
+	}
+]

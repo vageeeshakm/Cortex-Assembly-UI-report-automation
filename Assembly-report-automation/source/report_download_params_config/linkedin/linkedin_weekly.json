@@ -1,0 +1,9 @@
+[
+    {
+        "account_name": "ETRADE_SC_Brokerage_Weekly",
+        "account_id": "504258491",
+        "date_range": "D:14",
+        "platform_type": "linkedin_weekly",
+        "report_type": ["Ad Performance"]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "advertiser": "Media_assembly",
+        "email_subject": "automation_media_assembly_report_template_1"
+    },
+        {
+        "advertiser": "Elevate_rise",
+        "email_subject": "automation_elevate_rise_report_template_1"
+    },
+        {
+        "advertiser": "Varick_media",
+        "email_subject": "automation_varick_media_report_template_1"
+    },
+        {
+        "advertiser": "Sophie",
+        "email_subject": "automation_sophie_report_template_1"
+    }
+]

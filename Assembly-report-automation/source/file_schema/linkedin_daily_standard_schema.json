@@ -1,0 +1,375 @@
+[
+	{
+		"column_name": "Start Date (in UTC)",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Account Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Currency",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Campaign Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign Status",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Cost Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Daily Budget",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Budget",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Creative Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad ID",
+		"datatype": "int",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Creative Status",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Introduction Text",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Headline",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Ad Line",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Click URL",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Sponsored Update Type",
+		"datatype": "string"
+	},
+	{
+		"column_name": "DSC Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Total Spent",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Click Through Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Average CPM",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Average CPC",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Reactions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Comments",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Shares",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Follows",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Other Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Social Actions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Engagements",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Engagement Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Viral Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Reactions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Comments",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Shares",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Follows",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Other Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Sends",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Opens",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks (Sponsored Messaging)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Button Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Banner Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Link Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Cost per Send",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Open Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Cost per Open",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Click Through Rate (Sponsored Messaging)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Post-Click Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "View-Through Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Conversion Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Cost per Conversion",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Total Conversion Value",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Return on Ad Spend",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Viral Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Post-Click Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral View-Through Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Leads",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Lead Forms Opened",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Lead Form Completion Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Cost per Lead",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Video Length (in Seconds)",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Plays",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Views",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video View Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Video Views at 25%",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Views at 50%",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Views at 75%",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Completions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Completion Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Full Screen Plays",
+		"datatype": "int"
+	},
+	{
+		"column_name": "eCPV",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Viral Video Plays",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Video Views",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Video Views at 25%",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Video Views at 50%",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Video Views at 75%",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Video Completions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Video Completion Rate",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Viral Video Full Screen Plays",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Reach",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Average Frequency",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Cost per 1,000 People Reached",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Event Registrations",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Click Event Registrations",
+		"datatype": "int"
+	},
+	{
+		"column_name": "View Event Registrations",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Event Registrations",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral Click Event Registrations",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Viral View Event Registrations",
+		"datatype": "int"
+	}
+]

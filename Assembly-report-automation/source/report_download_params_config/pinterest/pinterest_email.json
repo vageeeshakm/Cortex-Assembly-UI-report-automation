@@ -1,0 +1,47 @@
+[
+    {
+        "template_name": "Gum_brand",
+        "report_name": "GUM Brand",
+        "account_id": "549756734391"
+    },
+    {
+        "template_name": "Farmer_John",
+        "report_name": "Farmer John",
+        "account_id": "549755900303"
+    },
+    {
+        "template_name": "Farmland_foods",
+        "report_name": "Farmland Foods",
+        "account_id": "549755946275"
+    },
+    {
+        "template_name": "Red_Robin_Burgers",
+        "report_name": "Red Robin Burgers",
+        "account_id": "549755922800"
+    },
+    {
+        "template_name": "Tillamook",
+        "report_name": "Tillamook",
+        "account_id": "549755929916"
+    },
+    {
+        "template_name": "Food_Lion",
+        "report_name": "Food Lion",
+        "account_id": "549755878016"
+    },
+    {
+        "template_name": "Loves_furniture",
+        "report_name": "Loves Furniture",
+        "account_id": "549761210759"
+    },
+    {
+        "template_name": "Smithfield",
+        "report_name": "Smithfield",
+        "account_id": "549756400620"
+    },
+    {
+        "template_name": "Firefly_Oral",
+        "report_name": "Firefly Oral",
+        "account_id": "549762281838"
+    }
+]

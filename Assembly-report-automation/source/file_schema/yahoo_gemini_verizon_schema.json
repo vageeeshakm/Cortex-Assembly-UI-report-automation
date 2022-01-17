@@ -1,0 +1,42 @@
+[
+	{
+        "column_name": "Day",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Advertiser ID",
+		"can_be_null": false,
+		"datatype": "int"
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Ad Group ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Ad ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Spend",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Ad Landing URL",
+		"datatype": "string"
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"column_name": "Start Date (in UTC)",
+        "datatype": "string",
+        "infer_datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Account Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Account Id",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Creative Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Creative ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Campaign Name",
+		"datatype": "string"
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Spent",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Social Actions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Total Engagements",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Conversions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Views",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Video Completions",
+		"datatype": "int"
+	}
+]

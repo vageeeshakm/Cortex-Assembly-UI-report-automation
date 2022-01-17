@@ -1,0 +1,84 @@
+[
+	{
+		"column_name": "Date",
+        "datatype": "date",
+        "can_be_null": false,
+        "date_format": "%m/%d/%Y"
+	},
+	{
+		"column_name": "Advertiser ID",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Advertiser",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Campaign ID",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Campaign",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Ad Group ID",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Ad Group",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Creative ID",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Creative",
+		"datatype": "string",
+		"can_be_null": false
+	},
+	{
+		"column_name": "Ad Server Creative Placement ID",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Impressions",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Clicks",
+		"datatype": "int"
+	},
+	{
+		"column_name": "Media Cost (USD)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Fee Features Cost (USD)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "TTD Margin (USD)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Data Cost (USD)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Advertiser Cost (USD)",
+		"datatype": "float"
+	},
+	{
+		"column_name": "Player Completed Views",
+		"datatype": "int"
+	}
+]
